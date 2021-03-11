@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Stegosaurus Dynamic Running Shoe",
+        "brand": "Nike"
+    },
+    {
+        "id": 2,
+        "name": "Musical Awesome Wheelies",
+        "brand": "Adidas"
+    },
+    {
+        "id": 3,
+        "name": "Ordinary Step-up Shoe, V2",
+        "brand": "Reebok"
+    }
+]
